@@ -21,7 +21,7 @@
     "fs": "0.0.1-security",
     "graphql": "^14.5.7",
     "lodash": "^4.17.15",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.2",
     "tunnel-ssh": "^4.1.4"
   }
